@@ -1,0 +1,25 @@
+
+.container {
+    margin: auto;
+    max-width: 500px;
+    font-family: sans-serif;
+}
+
+.heading {
+    color: #1E293B;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+    padding-left: 0px;
+
+}
+
+.nav-link-item{
+    padding-right: 2em;
+}
+
+.nav-link-text{
+    color: #475569;
+}
